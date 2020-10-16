@@ -1,0 +1,8 @@
+*/core/*
+*/sites/all/modules/contrib/*
+*/sites/all/libraries/*
+*/node_modules/*
+*/vendor/*
+
+*/package.json
+*/package-lock.json

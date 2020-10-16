@@ -1,0 +1,35 @@
+{
+  "name": "rdg-eslint",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "git@github.com:pianomansam/rdg-eslint.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "2.x",
+    "@typescript-eslint/parser": "2.x",
+    "babel-eslint": "10.x",
+    "eslint": ">=5.0.0",
+    "eslint-config-airbnb": "18.2.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-config-react-app": "5.2.1",
+    "eslint-plugin-flowtype": "4.0.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "4.0.0",
+    "husky": "^4.2.5",
+    "js-yaml": "^3.12.0",
+    "lodash": "^4.17.20",
+    "prettier": ">=1.13.0",
+    "stylelint": "^10.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.5.4"
+  }
+}
